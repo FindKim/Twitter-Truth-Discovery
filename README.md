@@ -7,6 +7,7 @@ MLE based tweet credibility analysis tool using Expectation Maximization to anal
 
 ## Instructions
 Usage: `./twitter-truth-discovery.py [sensing matrix file] [output file]`
+
 Usage: `./sensing-matrix.py [twitter dataset] [clustering results file] [output file]`
 
 ## References
